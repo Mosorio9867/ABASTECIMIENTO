@@ -2,12 +2,11 @@ namespace ACME_ABASTECIMIENTO.Models
 {
     public class AbastecimientoParametro
     {
-        public DateOnly Date { get; set; }
-
-        public int TemperatureC { get; set; }
-
-        public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
-
-        public string? Summary { get; set; }
+        public string NumPedido { get; set; }
+        public int CantidadPedido { get; set; }
+        public string CodigoEAN { get; set; }
+        public string NombreProducto { get; set; }
+        public string NumDocumento { get; set; }
+        public string Direccion { get; set; }
     }
 }

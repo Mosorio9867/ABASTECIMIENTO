@@ -72,3 +72,4 @@ C:\Users\manu9\OneDrive\Documents\Proyects\ABASTECIMIENTO\ACME_ABASTECIMIENTO\ob
 C:\Users\manu9\OneDrive\Documents\Proyects\ABASTECIMIENTO\ACME_ABASTECIMIENTO\obj\Debug\net8.0\ACME_ABASTECIMIENTO.pdb
 C:\Users\manu9\OneDrive\Documents\Proyects\ABASTECIMIENTO\ACME_ABASTECIMIENTO\obj\Debug\net8.0\ACME_ABASTECIMIENTO.genruntimeconfig.cache
 C:\Users\manu9\OneDrive\Documents\Proyects\ABASTECIMIENTO\ACME_ABASTECIMIENTO\obj\Debug\net8.0\ref\ACME_ABASTECIMIENTO.dll
+C:\Users\manu9\OneDrive\Documents\Proyects\ABASTECIMIENTO\ACME_ABASTECIMIENTO\bin\Debug\net8.0\Newtonsoft.Json.dll
